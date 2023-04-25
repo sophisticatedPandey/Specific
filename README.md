@@ -1,6 +1,6 @@
 # Specific
 This is my first repository
-This  is first commit
+This  is my first project
 import datetime
 from playsound import playsound
 
